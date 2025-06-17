@@ -15,7 +15,7 @@ __**Biolink Captured**__
 * ChemicalToDiseaseOrPhenotypicFeatureAssociation
   * id (random uuid)
   * subject (chemical id)
-  * predicate (`biolink:affects`)
+  * predicate (`biolink:treats_or_applied_or_studied_to_treat`)
   * object (disease id)
   * publication (pubmed ids provided by file)  
   * primary_knowledge_source (`infores:ctd`)
