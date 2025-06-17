@@ -1,4 +1,4 @@
-## NCATS Translator BRIDGE proof of concept 
+## NCATS Translator DINGO-related proof of concept 
 
 Using a uv repository containing a koza transform of CTD data, writing to jsonl
 
