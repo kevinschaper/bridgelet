@@ -38,7 +38,8 @@ writer:
     - predicate
     - object
     - publications
-    - aggregator_knowledge_source
+# TODO: add this back, if we decide that this repository is itself an aggregator knowledge source...and we give it an infores ID
+#    - aggregator_knowledge_source
     - primary_knowledge_source
     - knowledge_level
     - agent_type
